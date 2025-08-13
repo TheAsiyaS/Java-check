@@ -13,7 +13,14 @@ public class Loop1 {
          System.out.println(N + " x " + i + " = " + sum);
         }
          
+        /*
+         for (int i = 0; i < 5; i++) {
+  System.out.println(i);
+} 
+      
+         */
     }
 }
-  
+ 
+
 
